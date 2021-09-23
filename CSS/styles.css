@@ -1,0 +1,68 @@
+body {
+  position: relative;
+  font-size: 15px;
+  background-color: hsl(233, 47%, 7%);
+  width: 1440px;
+
+}
+
+
+img {
+  float: right;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+h1, h2 {
+  color: white;
+  margin: 0;
+
+}
+
+
+h1 span {
+  color: hsl(277, 64%, 61%);
+}
+ td p {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 11px;
+  color: hsla(0, 0%, 100%, 0.6);
+  margin: 0;
+}
+
+table {
+  width: 100%;
+}
+
+.paragraph {
+  color: hsla(0, 0%, 100%, 0.75);
+  margin-top: 35px;
+  margin-bottom: 85px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.main {
+  width: 1110px;
+  height: 446px;
+  background-color: hsl(244, 38%, 16%);
+  margin: auto;
+  
+
+
+
+
+}
+
+.textbox {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  display: inline-block;
+  width: 385px;
+  padding: 75px;
+  padding-right: 110;
+}
